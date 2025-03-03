@@ -9,7 +9,7 @@
 
 Dashboard interaktif untuk menganalisis riwayat mendengarkan musik di Spotify.  
 
-## Fitur Utama 📌  
+## 📌 Fitur Utama   
 - **Total Waktu Mendengarkan** – Melihat total durasi mendengarkan musik dalam jam.  
 - **Top 10 Artis Berdasarkan Waktu Mendengarkan** – Menampilkan artis yang paling sering didengar berdasarkan durasi.  
 - **Filter Artis** – Memilih artis tertentu untuk melihat jumlah waktu mendengarkan yang menyesuaikan secara dinamis.  
