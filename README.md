@@ -33,17 +33,22 @@ cd Streamlit_YS/colab/Spotify+Streaming+History
 ### 2️⃣ Install Dependencies
 
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 
 ### 3️⃣ Jalankan Aplikasi
 
 ```bash
-Copy
-Edit
 streamlit run spotify_dashboard.py
 ```
 
-
+## 📂 Struktur File
+```bash
+colaab/Spotify+Streaming+History/
+│── requirements.txt          # Dependencies untuk Streamlit dan Pandas  
+│── spotify_cleaned.csv       # Data hasil preprocessing  
+│── spotify_dashboard.py      # Kode utama dashboard  
+│── spotify_data_dictionary.csv  # Kamus data  
+│── spotify_history.csv       # Data riwayat pemutaran mentah  
+```
+© 2025 yenatariys
