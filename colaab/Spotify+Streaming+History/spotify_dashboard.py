@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv('spotify_cleaned.csv')
+df = pd.read_csv("colaab/Spotify+Streaming+History/spotify_cleaned.csv")
 df.head()
 
 #Sidebar filter
