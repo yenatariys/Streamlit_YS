@@ -23,7 +23,27 @@ Dashboard interaktif untuk menganalisis riwayat mendengarkan musik di Spotify.
 🔗 **Coba sekarang:** [Spotify Dashboard](https://spotidashboardys.streamlit.app/)  
 
 ## 🛠️ Instalasi & Menjalankan Secara Lokal  
-### 1️⃣ **Clone Repository**  
+### 1️⃣ Clone Repository 
+
 ```bash
 git clone https://github.com/yenatariys/Streamlit_YS.git
 cd Streamlit_YS/colab/Spotify+Streaming+History
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+Copy
+Edit
+pip install -r requirements.txt
+```
+
+### 3️⃣ Jalankan Aplikasi
+
+```bash
+Copy
+Edit
+streamlit run spotify_dashboard.py
+```
+
+
