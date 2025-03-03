@@ -7,8 +7,6 @@
 
 ---
 
-# Spotify Streaming Dashboard 🎵  
-
 Dashboard interaktif untuk menganalisis riwayat mendengarkan musik di Spotify.  
 
 ## Fitur Utama 📌  
